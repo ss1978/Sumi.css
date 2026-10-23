@@ -1,0 +1,11 @@
+{
+  "name": "sumi.css",
+  "version": "1.0.0",
+  "description": "A minimalist CSS framework for modern web design",
+  "main": "sumi.min.css",
+  "style": "sumi.css",
+  "keywords": ["css", "framework", "minimalist", "sumi"],
+  "author": "Sanya",
+  "license": "MIT",
+  "files": ["sumi.css", "sumi.min.css"]
+}
